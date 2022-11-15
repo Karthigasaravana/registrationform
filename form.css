@@ -1,0 +1,10 @@
+body{
+    background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url("https://eandj.org/wp-content/uploads/2020/11/EMeHZXjWoAAuIKR-1080x675.jpg") ;
+}
+form{
+    width: 300px;
+    position: relative;
+    margin: 3% auto;
+    background-color: aliceblue;
+    padding: 50px;
+}
